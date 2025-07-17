@@ -58,3 +58,7 @@ p {
 .categoria h2 {
     color: rgb(224, 221, 13);
 }
+
+.categoria h3 {
+    color: aqua;
+}
