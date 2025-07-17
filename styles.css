@@ -52,9 +52,9 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(177, 9, 9);
+    border: 3px solid rgb(183, 243, 18);
 }
 
 .categoria h2{
-    color: aqua;
+    color: rgb(224, 221, 13);
 }
